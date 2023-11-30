@@ -1,0 +1,5 @@
+name: '@alexisabril/hello-actions'
+description: 'Hello world for GitHub Actions'
+runs:
+  using: 'node16'
+  main: 'src/hello.js'
