@@ -5,4 +5,4 @@ runs:
   main: 'src/hello.js'
 branding:
   icon: './icon.svg'
-  color: '#800080'
+  color: 'purple'
