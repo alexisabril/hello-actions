@@ -3,3 +3,6 @@ description: 'Hello world for GitHub Actions'
 runs:
   using: 'node16'
   main: 'src/hello.js'
+branding:
+  icon: './icon.svg'
+  color: '#800080'
