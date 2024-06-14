@@ -1,0 +1,28 @@
+<svg
+  width="100"
+  height="100"
+  viewBox="0 0 24 24"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <circle
+    cx="12"
+    cy="12"
+    r="10"
+    stroke="black"
+    stroke-width="2"
+    fill="lightblue"
+  />
+  <path
+    d="M12 2C13.6569 2 15 6.47715 15 12C15 17.5228 13.6569 22 12 22C10.3431 22 9 17.5228 9 12C9 6.47715 10.3431 2 12 2Z"
+    stroke="black"
+    stroke-width="1"
+    fill="none"
+  />
+  <path
+    d="M2 12C2 13.6569 6.47715 15 12 15C17.5228 15 22 13.6569 22 12C22 10.3431 17.5228 9 12 9C6.47715 9 2 10.3431 2 12Z"
+    stroke="black"
+    stroke-width="1"
+    fill="none"
+  />
+</svg>
