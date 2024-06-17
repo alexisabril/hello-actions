@@ -4,5 +4,5 @@ runs:
   using: 'node16'
   main: 'src/hello.js'
 branding:
-  icon: 'alert-octagon'
+  icon: 'play'
   color: 'purple'
